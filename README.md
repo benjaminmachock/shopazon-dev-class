@@ -1,0 +1,1 @@
+# shopazon-dev-class
